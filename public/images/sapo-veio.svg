@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" fill="none">
+  <title>Bet dos Sapo Véio — sapo de bigode e boné</title>
+  <circle cx="120" cy="120" r="112" fill="#123b2d" stroke="#c5ee55" stroke-width="6"/>
+  <path d="M48 172Q120 215 192 172L179 218H61Z" fill="#f3cc55"/>
+  <ellipse cx="120" cy="130" rx="83" ry="64" fill="#8dc947" stroke="#173d2c" stroke-width="5"/>
+  <circle cx="78" cy="94" r="33" fill="#aee368" stroke="#173d2c" stroke-width="5"/>
+  <circle cx="161" cy="94" r="33" fill="#aee368" stroke="#173d2c" stroke-width="5"/>
+  <ellipse cx="79" cy="99" rx="19" ry="22" fill="#fff9d9"/>
+  <ellipse cx="160" cy="99" rx="19" ry="22" fill="#fff9d9"/>
+  <path d="M61 91h36M142 91h36" stroke="#173d2c" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="84" cy="103" r="7" fill="#173d2c"/><circle cx="155" cy="103" r="7" fill="#173d2c"/>
+  <path d="M60 66Q74 21 125 28Q174 30 184 65Z" fill="#f3cc55" stroke="#173d2c" stroke-width="5"/>
+  <path d="M58 67Q120 48 195 66Q213 75 185 79H64Z" fill="#e1ae32" stroke="#173d2c" stroke-width="5"/>
+  <path d="M110 144Q93 127 80 143Q64 155 51 139Q59 169 86 166Q108 165 120 151Q132 165 154 166Q181 169 189 139Q176 155 160 143Q147 127 130 144Z" fill="#edf1df" stroke="#173d2c" stroke-width="3"/>
+  <path d="M106 174Q120 180 134 174" stroke="#173d2c" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="113" cy="131" r="3" fill="#173d2c"/><circle cx="127" cy="131" r="3" fill="#173d2c"/>
+  <path d="m120 192 7 8-3 11h-9l-3-11Z" fill="#173d2c"/>
+</svg>

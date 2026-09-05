@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bet-landing { background: #0c221b; color: #fffdf2; }
+.bet-hero { background: radial-gradient(ellipse at top right, #2d613b, transparent 70%), #123b2d; color: #fffdf2; }
+.bet-lime { color: #c5ee55; }
+.bet-eyebrow { color: #c5ee55; font-size: .7rem; letter-spacing: .14em; font-weight: 700; }
+.bet-cta { border-radius: .6rem; background: #c5ee55; color: #163326; padding: .85rem 1.2rem; font-weight: 700; }
+.bet-cta:hover { background: #d8fa81; }
+.bet-outline { border: 1px solid #71947a; border-radius: .6rem; padding: .65rem 1rem; }
+.bet-info { background: #143127; border: 1px solid #29483a; border-radius: 1rem; padding: 1.5rem; }
+.bet-option { cursor: pointer; border: 1px solid #d7e4da; border-radius: .6rem; background: #f3f8f4; padding: .65rem; color: #225437; text-align: center; }
+.bet-option:has(input:checked) { border-color: #287441; background: #e4f2b8; box-shadow: inset 0 0 0 1px #287441; }
+.bet-option input { accent-color: #287441; margin-bottom: .3rem; }
